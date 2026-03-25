@@ -1,4 +1,4 @@
-# 🐦 Twitter Sentiment Analysis using BERT
+# 🐦 Sentiment Analysis using BERT
 
 This project is a Twitter Sentiment Analysis web application built using **BERT (Bidirectional Encoder Representations from Transformers)** and deployed with **Streamlit**.
 
