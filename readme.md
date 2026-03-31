@@ -1,5 +1,5 @@
 # 🐦 Sentiment Analysis using BERT
-
+Live demo: [https://sentiment-analyzer-nlp-prem-mohan.streamlit.app/]
 This project is a Twitter Sentiment Analysis web application built using **BERT (Bidirectional Encoder Representations from Transformers)** and deployed with **Streamlit**.
 
 The model classifies tweets into three categories:
